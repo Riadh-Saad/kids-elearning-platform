@@ -62,10 +62,10 @@
             />
             <div class="card-body">
               <h5>
-                others<br />
-                <span> type </span>
+                Animals<br />
+                <span> Guess </span>
               </h5>
-              <p class="card-text">“text ”</p>
+              <p class="card-text">Voice Quizz</p>
               <button>START</button>
             </div>
           </div>
@@ -79,7 +79,8 @@
 export default {
   name: "Header",
   props: {
-    title: String,
+    
+    
   },
 };
 </script>
